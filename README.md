@@ -4,7 +4,7 @@ JS simple algorithm scripting
 These challenges allowed me to test myself in different js tasks
 
 ### list of all tasks:
-Sum All Numbers in a Range
+- Sum All Numbers in a Range
 Diff Two Arrays
 Seek and Destroy
 Wherefore art thou
